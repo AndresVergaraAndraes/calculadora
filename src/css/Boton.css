@@ -9,11 +9,17 @@
     font-size: 14px;
     background-color: black;
     color: wheat;
-    border-radius: 25px;
+    border-radius: 10px;
     border: 2px solid wheat;
     margin: 4px;
     cursor: pointer;
     user-select: none;
+}
+.boton-container:hover{
+background-color: blueviolet;
+}
+.operador:hover{
+    background-color: aquamarine;
 }
 .operador{
     background-color: rgb(17, 61, 97);
